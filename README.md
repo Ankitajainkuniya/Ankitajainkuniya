@@ -4,7 +4,7 @@
 
 I build B2B SaaS products that grow. From founding and scaling a platform to ₹40 Cr ARR (acquired by Reliance Retail) to shipping AI-native features at a product-led company — I've lived every stage of the SaaS journey: pre-PMF scrappiness, growth-loop design, enterprise motion, and the hard conversation about what to kill.
 
-Currently a full-time Senior PM. IIM Bangalore · Harvard Executive Education.
+Currently a full-time Senior PM. IIM Bangalore
 
 ---
 
