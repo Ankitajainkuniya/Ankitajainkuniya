@@ -1,81 +1,100 @@
-# Ankita Jain — Product Manager
+# Ankita Jain — Product Manager, B2B SaaS
 
-**GenAI · SaaS · D2C Commerce · WhatsApp API · 0→1 · Scale**
+**B2B SaaS · PLG · AI Features · Platform & API Products · 0→1 · India**
 
-I build AI-native products that ship. Not decks — working software that goes to production, handles real users, and moves revenue metrics.
+I build B2B SaaS products that grow. From founding and scaling a platform to ₹40 Cr ARR (acquired by Reliance Retail) to shipping AI-native features at a product-led company — I've lived every stage of the SaaS journey: pre-PMF scrappiness, growth-loop design, enterprise motion, and the hard conversation about what to kill.
 
-Currently a full-time PM at a high-growth tech company. IIM Bangalore · Harvard Executive Education · Ex-founder (D2C platform, acquired by Reliance Retail).
-
----
-
-## What I bring to a product role
-
-### Deep technical fluency — without being an engineer
-I can read a diff, write a SQL query, debug an API payload, and spec an LLM prompt. I don't need a translator between business and engineering. Teams I've worked with ship faster because alignment happens in the same room, not in a chain of Jira comments.
-
-### 0→1 and scale — I've done both
-Built a D2C platform from zero to ₹40 Cr ARR before a strategic acquisition. I know what it means to prioritise with no resources and to prioritise when you have too many. The instinct doesn't change; the constraints do.
-
-### GenAI product thinking — grounded in production reality
-I've designed and shipped LLM-powered features: agentic loops with tool use, RAG pipelines, multi-modal inputs, fallback chains, and latency/cost trade-offs that actually make it to prod. I know where AI is genuinely useful and where it's a liability.
-
-### India-first commerce intuition
-WhatsApp as a sales and support channel. BSP billing models. D2C brand economics. Regional language UX. Cash-on-delivery trust dynamics. These aren't theoretical for me — they're the product surface I've worked on.
+Currently a full-time Senior PM. IIM Bangalore · Harvard Executive Education.
 
 ---
 
-## Domain expertise
+## SaaS expertise, specifically
 
-| Domain | Experience |
+### Platform & API products
+I've owned multi-tenant SaaS platforms end-to-end — API-key authentication, role-based access control, usage metering, webhook delivery, developer documentation, and the billing infrastructure underneath all of it. I understand why the platform layer is where most SaaS companies win or lose long-term.
+
+### Pricing & packaging
+Subscription tiers, usage-based pricing, per-seat vs per-outcome — I've designed and iterated on pricing models with real revenue at stake. I know how to model the impact of a pricing change before shipping it, and I know that pricing is a product decision, not a finance one.
+
+### Activation and retention — the real SaaS levers
+Time-to-value is the metric that predicts everything else. I design onboarding flows around it. I instrument activation milestones before the feature ships. I've run cohort analyses that changed the roadmap direction because the data disagreed with the intuition.
+
+### PLG motion
+I've built self-serve funnels, in-product upgrade prompts, usage-triggered nudges, and the freemium limits that convert. I understand where PLG breaks down (enterprise deal sizes, compliance requirements, security reviews) and when to layer in a sales-assist motion.
+
+### AI in SaaS — the honest version
+Most "AI features" in SaaS are search wrappers or summarisation bolted onto existing flows. The ones that actually drive retention are deeply integrated into the core workflow, have clear fallbacks when the model is wrong, and are evaluated against real user outcomes — not demo impressions. I design the latter.
+
+---
+
+## Key SaaS metrics I've owned
+
+| Metric | How I've worked with it |
 |---|---|
-| **GenAI / LLM products** | Agentic systems, RAG, tool use, prompt engineering, cost optimisation |
-| **Conversational commerce** | WhatsApp Business API, chatbot flows, AI agent handoffs |
-| **SaaS / multi-tenant platforms** | Subscription billing, API-key auth, role-based access, usage metering |
-| **D2C & e-commerce** | Catalogue, checkout, returns, customer support, retention |
-| **0→1 founding** | Discovery, MVP scoping, early GTM, investor narrative |
-| **Analytics & data** | Funnel analysis, cohort retention, A/B testing, SQL fluency |
+| **ARR / MRR** | Modelled expansion revenue from tier upgrades, usage overages, and seat growth |
+| **Activation rate** | Defined activation events, instrumented them, and redesigned onboarding around improving them |
+| **Churn & NRR** | Led win/loss analysis, identified leading churn indicators, built retention playbooks |
+| **Time-to-value** | Reduced TTV by redesigning trial flows and removing friction from first meaningful action |
+| **API adoption** | Tracked integration depth as a leading retention signal; built developer-facing features to deepen it |
+| **Feature adoption** | Designed in-product discovery, contextual nudges, and gated releases to drive rollout |
 
 ---
 
-## Tech I understand deeply enough to spec and review
+## Domain depth
+
+| Area | What I've shipped |
+|---|---|
+| **Multi-tenant SaaS platforms** | Tenant isolation, API-key management, usage metering, billing integration |
+| **GenAI features** | Agentic tool-use loops, RAG pipelines, LLM cost optimisation, eval frameworks |
+| **Developer-facing products** | API design, webhook systems, SDK specs, developer docs, sandbox environments |
+| **Conversational AI** | AI agent flows, human handoff logic, multi-channel messaging (WhatsApp, in-app) |
+| **Subscription billing** | Tier design, upgrade/downgrade flows, usage-based overage billing, invoice management |
+| **Analytics & data** | SQL fluency, funnel analysis, cohort retention, A/B test design and read-out |
+
+---
+
+## Tech I understand well enough to spec, review, and push back on
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=flat&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat&logo=whatsapp&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## How I think about product
+## How I think about SaaS product
 
-**On prioritisation**: The backlog is infinite. The calendar isn't. I use impact × confidence × effort as a forcing function, but the real work is developing the intuition to know when a framework is wrong.
+**On the platform vs features trade-off**: Features win demos. Platform wins retention. I've seen both sides of this mistake and I default to asking "does this make the platform more valuable, or does it just ship something new?"
 
-**On AI features**: Most AI features should not exist. The ones that should exist need fallbacks, evals, latency budgets, and a clear answer to "what happens when the model is wrong." I design for that from the first sprint.
+**On pricing**: Pricing is positioning. Every time you change a tier limit or add a new plan, you're making a statement about who the product is for. Most teams treat it as a spreadsheet exercise. I treat it as a product decision.
 
-**On engineers**: The best PMs I've seen — and tried to be — protect engineers' time, write specs that answer questions before they're asked, and say no to features they can't defend in a post-mortem.
+**On growth loops**: The best SaaS products have growth that is structural, not campaign-dependent. I look for the loop — the mechanism by which existing users generate new users or expand revenue — before I approve a roadmap.
 
-**On data**: If you can't measure it, you can't improve it. If you measure the wrong thing, you optimise yourself into a corner. I've done both. The second one is worse.
+**On AI features in SaaS**: The question isn't "can we add AI here?" It's "does adding AI reduce the time between a user's problem and their outcome?" If the answer isn't clearly yes, it shouldn't ship.
+
+**On churn**: Churn is a product problem before it's a CS problem. By the time a customer calls to cancel, you've already lost them twice — once when they stopped finding value, and once when nobody noticed.
 
 ---
 
 ## Background
 
 - **IIM Bangalore** — MBA
-- **Harvard Executive Education** — AI & Business Strategy
-- **Ex-founder** — D2C commerce platform, scaled to ₹40 Cr ARR, acquired by **Reliance Retail**
-- **Currently**: Senior PM at a product-led SaaS company, focused on AI features and platform growth
+- **Harvard Executive Education** — AI & Business Strategy  
+- **Ex-founder** — Built a D2C SaaS platform from zero to ₹40 Cr ARR, acquired by **Reliance Retail**
+- **Currently**: Senior PM at a product-led SaaS company, owning AI features and platform growth
 
 ---
 
 ## Open to
 
-- **Senior / Lead PM** roles at AI-first or AI-native companies
-- **Head of Product** at Series A–C startups where the product is genuinely complex
-- Advisory conversations at the intersection of GenAI + commerce + India
+- **Senior PM / Lead PM** at B2B SaaS companies where AI is core to the product, not a checkbox
+- **Head of Product** at Series A–C startups building platform or infrastructure SaaS
+- **Platform PM** roles owning API products, developer experience, or multi-tenant architecture
+- Conversations — even if the timing isn't right
 
 ---
 
