@@ -101,4 +101,4 @@ Most "AI features" in SaaS are search wrappers or summarisation bolted onto exis
 ## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita_Jain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitajainkuniya)
-[![Email](https://img.shields.io/badge/Email-franfraecommerce%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:franfraecommerce@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ankitajainkuniya%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ankitajainkuniya@gmail.com)
