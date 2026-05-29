@@ -83,7 +83,7 @@ Most "AI features" in SaaS are search wrappers or summarisation bolted onto exis
 ## Background
 
 - **IIM Bangalore** — MBA
-- **Harvard Executive Education** — AI & Business Strategy  
+- **Harvard Executive Education** —  Business Strategy  
 - **Ex-founder** — Built a D2C SaaS platform from zero to ₹40 Cr ARR, acquired by **Reliance Retail**
 - **Currently**: Senior PM at a product-led SaaS company, owning AI features and platform growth
 
